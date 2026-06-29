@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3i0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 酒譜
+  date: '2015-08-24 23:18:07.912849'
+  source:
+    repository: kanripo
+    path: KR3i0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0027_000-WYG.yaml, hash: 'sha256:14006f639a033892053b45190d0bcc4ecd62bd007d2ac0951507c767011a564a'}
+  - {seq: 1, filename: KR3i0027_001-WYG.yaml, hash: 'sha256:89f71bbab72abb83eb0715ec3b77c10d2ea07b933246ffb89b6484cf11d1e798'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0027_000-WYG.markers.yaml, hash: 'sha256:63ae02b861c73d8a5579a645a9d284696eb44cf554232de0bee968f042628f10'}
+  - {seq: 1, role: markers, filename: assets/KR3i0027_001-WYG.markers.yaml, hash: 'sha256:5f89dd582cdf44e15d20bc569c0e030b01454a17b200653e2386079ae228b8ea'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 235
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3i0027_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 614
+  label: 酒譜
+  type: section
+  level: 1
+hash: sha256:0ddd577b922d437015107a03a037ede7d8c74dbdf1c41352cb62ea33e39550cf

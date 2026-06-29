@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0027/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部九
+  hash: sha256:0bce925b640ea8fd115d42e34eba7e8dcf8661f4ed3df866ab1767c420beaed8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0027_WYG_000-1a, image: WYG0844/WYG0844-0835a.png}
+body:
+  text: 提要酒譜一卷譜録類二飲饌之屬臣等謹按酒譜宋竇蘋撰蘋字子野汶上人朝公武讀書志載蘋有新唐書音訓四卷在吳縝之前當為仁宗時人公武稱其學問精博蓋亦好古之士别本有刻作竇鞏者然詳其名字乃有取於鹿鳴之詩作蘋字者是也其書雜叙酒之故事寥寥數條似有脫佚然宋志著録實作一卷觀其始於酒名終於酒令首尾已具知原本僅止於此大抵摘取新頴字句以供採掇與譜録之體亦稍有不同其引杜甫少年行醉倒終同卧竹根句謂以竹根為飲器乃千家注所未及亦足以廣異聞焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:43f8ebf151a1fd287776c0f90c4bcfd926a071e6b416a879cedd39c31ea2d1e8
+metadata:
+  title: 酒譜
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:18:07.912849'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3i0027/KR3i0027_000.txt
+hash: sha256:b62681ef9fca67b78cf595572f265a8060f92e655457250c8bd7cb02f3f50640
