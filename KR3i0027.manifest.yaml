@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3i0027_000.yaml, hash: 'sha256:de14f0343817916a63a0f454d6bf5d669c89e1d066c7c18aeb2662cd5d6ad25f'}
   - {seq: 1, filename: KR3i0027_001.yaml, hash: 'sha256:b499f621973217c717a0e78263b780ca3f82bbf3cda8cb05a1d52664054a62d9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0027_000.markers.yaml, hash: 'sha256:e4796a06476f992c6f4df1cab4109bb52472486561aad273236c539352f74390'}
+  - {seq: 0, role: markers, filename: assets/KR3i0027_000.markers.yaml, hash: 'sha256:d21680ae5764a4c04243045e84bf2a92811012e88c68aa1087dff8b7f9acc6b2'}
   - {seq: 1, role: markers, filename: assets/KR3i0027_001.markers.yaml, hash: 'sha256:c3989aee1b7c79d93b711bde8500b315967add25f4ffac2a7b42c0fcdbca81f5'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 酒譜
   type: section
   level: 1
-hash: sha256:0c11cfa1e7ace62e19c0310b77107ef045fc29e194408690491a5942152234fe
+hash: sha256:1050f59197b2f5a93f822eeb34fe189538fc2ff7dd55c2e2c8609c12b7217a41
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3i0027_000-WYG.yaml, hash: 'sha256:14006f639a033892053b45190d0bcc4ecd62bd007d2ac0951507c767011a564a'}
   - {seq: 1, filename: KR3i0027_001-WYG.yaml, hash: 'sha256:89f71bbab72abb83eb0715ec3b77c10d2ea07b933246ffb89b6484cf11d1e798'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0027_000-WYG.markers.yaml, hash: 'sha256:63ae02b861c73d8a5579a645a9d284696eb44cf554232de0bee968f042628f10'}
+  - {seq: 0, role: markers, filename: assets/KR3i0027_000-WYG.markers.yaml, hash: 'sha256:0503c2cd55b7c2f74091ff6a87761aab05dea0b6d239bc7d89087822f2392d24'}
   - {seq: 1, role: markers, filename: assets/KR3i0027_001-WYG.markers.yaml, hash: 'sha256:5f89dd582cdf44e15d20bc569c0e030b01454a17b200653e2386079ae228b8ea'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 酒譜
   type: section
   level: 1
-hash: sha256:0ddd577b922d437015107a03a037ede7d8c74dbdf1c41352cb62ea33e39550cf
+hash: sha256:e0f92a3c0fcd8b0ae89d8def4f947b4c4457110b4a5adde58ef573339e70883d
